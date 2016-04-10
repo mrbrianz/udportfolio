@@ -70,10 +70,13 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * created branch 'Brian_indexWork' (the branch I will be working with)
 * created branch 'gh-pages' from master branch in order to measure initial speed
 ** http://mrbrianz.github.io/udportfolio/index.html : 28/100 speed
+* merged branch 'Brian_indexWork' to gh-pages to measure again
+** http://mrbrianz.github.io/udportfolio/index.html : /100 speed
 
 ##### Changes Made
 
 * Brian_indexWork - Personalized the page to me
+* Brian_indexWork - Inlined normal styles, added media 'print' to print stylesheet
 
 ##### Procedure Used
 
