@@ -71,6 +71,9 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * created branch 'gh-pages' from master branch in order to measure initial speed
 ** http://mrbrianz.github.io/udportfolio/index.html : 28/100 speed
 * merged branch 'Brian_indexWork' to gh-pages to measure again
+** http://mrbrianz.github.io/udportfolio/index.html : 28/100 speed
+* PageSpeed insights says the analytics.js is render-blocking, so will async it (not needed to render the page)
+* merge branch Brian_indexWork to gh-pages to measure again
 ** http://mrbrianz.github.io/udportfolio/index.html : /100 speed
 
 ##### Changes Made
