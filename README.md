@@ -78,12 +78,14 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * PageSpeed insights reminds me that the google fonts are still render-blocking, so I will opt for built-in browser fonts instead
 ** http://mrbrianz.github.io/udportfolio/index.html : 30/100 speed (improvement!)
 * PageSpeed says the profilepic is much too large for the page, will reduce
-** http://mrbrianz.github.io/udportfolio/index.html : /100 speed
+** http://mrbrianz.github.io/udportfolio/index.html : 93/100 speed mobile & 94/100 desktop (yay!)
+* Would still like to add grunt into the mix
 
 ##### Changes Made
 
 * Brian_indexWork - Personalized the page to me
 * Brian_indexWork - Inlined normal styles, added media 'print' to print stylesheet
+* Brian_indexWork - Async'd analytics script, moved javascripts to below body, removed OpenSans GoogleFont in favor of built-in browser fonts, Replaced profile and pizzeria images with smaller pics
 
 ##### Procedure Used
 
