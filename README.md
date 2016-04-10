@@ -63,3 +63,19 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://nicoledominguez.com/portfolio/">http://nicoledominguez.com/portfolio/</a>
 * <a href="http://www.roxannecook.com/">http://www.roxannecook.com/</a>
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
+
+##### Steps I took
+
+* Forked repo to mrbrianz
+* created branch 'Brian_indexWork' (the branch I will be working with)
+* created branch 'gh-pages' from master branch in order to measure initial speed
+** http://mrbrianz.github.io/udportfolio/index.html : 28/100 speed
+
+##### Changes Made
+
+* Brian_indexWork - Personalized the page to me
+
+##### Procedure Used
+
+##### Results
+
